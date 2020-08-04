@@ -1,6 +1,6 @@
 // 중복 삽입 방지를 위한 Define Guard
-#ifndef ICE2004_WEEK15_HW01_SORT_H
-#define ICE2004_WEEK15_HW01_SORT_H
+#ifndef ICE2004_WEEK14_HW01_SORT_H
+#define ICE2004_WEEK14_HW01_SORT_H
 
 #include <algorithm>
 #include <cstddef>
@@ -47,4 +47,4 @@ void heap_sort2(T* array, std::size_t size, Compare cmp = Compare()) {
     }
 }
 
-#endif // ICE2004_WEEK15_HW01_SORT_H
+#endif // ICE2004_WEEK14_HW01_SORT_H

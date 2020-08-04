@@ -1,6 +1,6 @@
 // 중복 삽입 방지를 위한 Define Guard
-#ifndef ICE2004_WEEK15_HW01_HEAP_H
-#define ICE2004_WEEK15_HW01_HEAP_H
+#ifndef ICE2004_WEEK14_HW01_HEAP_H
+#define ICE2004_WEEK14_HW01_HEAP_H
 
 #include <cstddef>
 #include <queue>
@@ -267,4 +267,4 @@ private:
     Compare comp;
 };
 
-#endif // ICE2004_WEEK15_HW01_HEAP_H
+#endif // ICE2004_WEEK14_HW01_HEAP_H

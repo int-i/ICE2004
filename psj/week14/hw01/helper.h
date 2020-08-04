@@ -1,5 +1,5 @@
-#ifndef ICE2004_WEEK15_HW01_HELPER_H
-#define ICE2004_WEEK15_HW01_HELPER_H
+#ifndef ICE2004_WEEK14_HW01_HELPER_H
+#define ICE2004_WEEK14_HW01_HELPER_H
 
 #include <cstddef>
 #include <iostream>
@@ -36,4 +36,4 @@ void print_array(const T* array, std::size_t size) {
     }
 }
 
-#endif // ICE2004_WEEK15_HW01_HELPER_H
+#endif // ICE2004_WEEK14_HW01_HELPER_H

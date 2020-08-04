@@ -1,6 +1,6 @@
 // 중복 삽입 방지를 위한 Define Guard
-#ifndef ICE2004_WEEK15_HW01_TRAVERSAL_H
-#define ICE2004_WEEK15_HW01_TRAVERSAL_H
+#ifndef ICE2004_WEEK14_HW01_TRAVERSAL_H
+#define ICE2004_WEEK14_HW01_TRAVERSAL_H
 
 #include <iostream>
 #include "heap.h"
@@ -53,4 +53,4 @@ void postorder_traversal(const typename LinkedHeap<T>::Node* node) {
     std::cout << node->value << ' ';
 }
 
-#endif // ICE2004_WEEK15_HW01_TRAVERSAL_H
+#endif // ICE2004_WEEK14_HW01_TRAVERSAL_H
